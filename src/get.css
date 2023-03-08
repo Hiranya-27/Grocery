@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+    
+}
+table{
+    border:2px solid black;
+    margin-left: 14%;
+    margin-top: 5%;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+    font-size: 23px;
+    padding:5px 10px;
+}
+th
+    {
+        border:2px solid black;
+        margin-left: 14%;
+        margin-top: 5%;
+        border-collapse: collapse;
+        width: 500px;
+        text-align: center;
+        font-size: 23px;
+        padding:5px 10px;
+    }
+td{
+    border:2px solid black;
+    margin-left: 14%;
+    margin-top: 5%;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+    font-size: 23px;
+    padding:5px 10px;
+}

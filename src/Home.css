@@ -1,0 +1,36 @@
+/* 
+
+ body{
+    background-image: url("../src/pics/grocer.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100vh; 
+
+
+.b{
+    margin-left: 50%;
+    margin-top: 1.1%;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 60px;
+    background-color:transparent;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    padding:10px 15px;
+    display:inline-block;
+    cursor: pointer;
+    border:2px solid rgb(212, 10, 162);
+}
+.b:hover{
+    background-color:rgb(253, 173, 233);
+    color:rgb(0, 0, 0);
+}
+.b{
+    transition-duration: 0.3s;
+}
+.b{
+    box-shadow: 11px 11px 11px rgb(253, 173, 233);
+} */
